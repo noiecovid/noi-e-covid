@@ -96,8 +96,8 @@ a:hover {
 }
 
 .carousel-cards {
-    margin: 3%;
-    padding: 15%;
+    margin: 0;
+    padding: 9%;
     text-align: center;
 }
 
@@ -169,4 +169,35 @@ a:hover {
 .quattordici {
     background-color: rgb(212, 0, 255);
     padding: 3% 5%;
+}
+
+div {
+    text-align: center;
+}
+
+.button-drop {
+    width: 81%;
+    background-color: transparent;
+}
+
+.button-drop:hover {
+    width: 81%;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    color: #1D1E33;
+}
+
+.button-back {
+    margin-top: 1%;
+    margin-bottom: 3%;
+}
+
+img {
+    width: 54%;
+    height: auto;
+}
+
+.graph {
+    width: 45%;
+    height: 60%;
 }
